@@ -1,6 +1,7 @@
 import random
 
 secretNum = random.randint(1, 100)
+# if you want a condition like guess the number in only 3 chance then you can use these guessCount and guessLimit variables.
 # guessCount = 0
 # guessLimit = 5
 
